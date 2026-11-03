@@ -9,7 +9,7 @@ This summary was drafted by Claude based on our conversation, then reviewed by m
 
 ## Background
 
-My background is in marketing, and I have no prior programming experience. Because of this, I relied on Claude much more heavily for the code than a student with a programming background would. Before submitting, I emailed the instructor to describe exactly how I was using AI and asked whether it was acceptable. The instructor replied that if the way I used AI helped me learn, she trusts my judgement.
+My background is in marketing, and I have no prior programming experience. Because of this, I relied on Claude much more heavily for the code than a student with a programming background would.
 
 ## How I Worked with Claude
 
